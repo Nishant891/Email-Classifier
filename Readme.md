@@ -27,7 +27,7 @@ npm install
 
 ```  
 
-### Important Note : Please open http:127.0.0.1:3000 instead of localhost:3000 and http:127.0.0.1:5000 (backend) avoid localhost, may not loopback to the ip address.
+### Important Note : Please open http:127.0.0.1:3000 instead of localhost:3000 and http:127.0.0.1:5000 for the backend avoid localhost, may not loopback to the ip address.
    
 ```
 
