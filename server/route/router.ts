@@ -1,6 +1,5 @@
 import express from "express";
 import { OAuth2Client } from "google-auth-library";
-import("node-fetch");
 
 export const router = express.Router();
 
