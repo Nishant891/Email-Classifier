@@ -2,7 +2,9 @@
 
 https://www.loom.com/share/b275e002c2bc489a9e1b38bba34dd023?sid=2be7ada5-efc0-4954-9772-d0111efcdf61
 
-  Let's start with cloning the repo
+I don't have the resources to deploy the website's backend. I have given a detailed guide to of clone the project locally. Trust me it would be easy.
+
+Let's start with cloning the repo
 
 ```
 
