@@ -8,9 +8,9 @@
 
 
 
-I don't have the resources to deploy the website's backend. I have given a detailed guide to setup the project locally.
+### I don't have the resources to deploy the website's backend. I have given a detailed guide to setup the project locally.
 
-Let's start with cloning the repo
+### Let's start with cloning the repo
 
 ```
 
