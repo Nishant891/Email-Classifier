@@ -1,6 +1,13 @@
 # Here's a small demo of the application
 
-Email Classifier - 9 June 2024 - Watch Video
+<div>
+    <a href="https://www.loom.com/share/b275e002c2bc489a9e1b38bba34dd023">
+      <p>Email Classifier - 9 June 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/b275e002c2bc489a9e1b38bba34dd023">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b275e002c2bc489a9e1b38bba34dd023-with-play.gif">
+    </a>
+</div>
 
 
 
