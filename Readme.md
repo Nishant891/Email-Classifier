@@ -2,7 +2,7 @@
 
 <div>
     <a href="https://www.loom.com/share/b275e002c2bc489a9e1b38bba34dd023">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b275e002c2bc489a9e1b38bba34dd023-with-play.gif">
+      <img style="max-width:586px;" src="https://cdn.loom.com/sessions/thumbnails/b275e002c2bc489a9e1b38bba34dd023-with-play.gif">
     </a>
 </div>
 
